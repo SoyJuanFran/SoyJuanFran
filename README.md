@@ -1,1 +1,1 @@
-![SoyJuanFran's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoyJuanFran&show_icons=true&theme=radical)
+![SoyJuanFran's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoyJuanFran&count_private=true&show_icons=true&theme=onedark)
